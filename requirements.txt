@@ -1,0 +1,7 @@
+torch
+transformers
+diffusers
+Pillow
+pdf2image
+pytesseract
+olmocr
