@@ -5,3 +5,6 @@ Pillow
 pdf2image
 pytesseract
 olmocr
+torch==2.7.0
+torchvision
+torchaudio
